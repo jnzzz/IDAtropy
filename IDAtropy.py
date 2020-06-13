@@ -19,6 +19,7 @@ import zlib
 import string
 import random
 
+import idaapi
 from idc import *
 from idaapi import *
 from idautils import *

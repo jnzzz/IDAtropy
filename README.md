@@ -14,6 +14,10 @@ IDAtropy requires the matplotlib python's library. Personally, I prefer the foll
 
 The plugin was only extensively tested on IDA Pro 6.9 and 7.0 for Windows/Mac, with Python 2.7 and matplotlib 1.4.3, but it should work with other versions and OS's. If you find any inconsistency, let me know.
 
+**Worked for IDA 7.2 with python 2.7.13 x64**
+* pip install numpy
+* pip install matplotlib
+
 ## INSTALLATION
 
 Simply, copy `IDAtropy.py` to the IDA's plugins folder.
